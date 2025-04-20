@@ -1,2 +1,2 @@
-# ClimaView
+# SkyCast
 a sleek weather dashboard
